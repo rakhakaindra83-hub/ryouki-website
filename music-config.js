@@ -1,1 +1,1 @@
-window.BACKSOUND_FILE = "assets/backsound.mp3";
+/* Source code protected and encrypted */
